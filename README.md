@@ -1,8 +1,12 @@
-一個喜歡資訊安全的學生，對OSINT、網頁安全、滲透測試比較感興趣
+## about me
+一個喜歡資訊安全的學生，對OSINT、網頁安全、滲透測試、Networking Security比較感興趣
 
-🚩ICEDTEA Teamer
-ctftime:[Elliot_404](https://ctftime.org/user/191615)
+🏫目前就讀內思高工
 
-Instagram:[elliot_404_tw](https://www.instagram.com/elliot_404_tw/)
-Discord:[Elliot_404](https://discord.com/users/628939416693506049)
-Email:Cyber404.tw@gmail.com
+🚩[ICEDTEA](https://ctftime.org/team/303514) Teamer
+
+
+## 聯絡方式：
+- [Instagram](https://www.instagram.com/elliot_404_tw/)
+
+- [Discord](https://discord.com/users/628939416693506049)
