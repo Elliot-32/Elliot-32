@@ -17,6 +17,9 @@
 - 金盾盃 2024
 
 ## ☎️聯絡方式
-- [Instagram](https://www.instagram.com/elliot_404_tw/)
+- Instagram: [elliot_404_tw](https://www.instagram.com/elliot_404_tw/)
 
-- [Discord](https://discord.com/users/628939416693506049)
+- Discord: [elliot_404](https://discord.com/users/628939416693506049)
+
+## 🔗其他相關連結
+- ctftime: [Elliot_404](https://ctftime.org/user/191615)
