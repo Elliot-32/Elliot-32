@@ -21,5 +21,7 @@
 
 - Discord: [elliot_404](https://discord.com/users/628939416693506049)
 
+- E-mail: cyber404.tw@gmail.com
+
 ## 🔗其他相關連結
 - ctftime: [Elliot_404](https://ctftime.org/user/191615)
