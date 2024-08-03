@@ -9,7 +9,7 @@
 ## 💻參加過的活動
 - THJCC CTF rk.33
 - AIS3 Pre-exam 2024 rk.192
-- 一些ctftime上的比賽和isip的課
+- 一些CTFtime上的比賽和isip的課
 
 ## 🗓預計會參加的活動
 - AIS3 Junior 2024
