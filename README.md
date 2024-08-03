@@ -11,7 +11,7 @@
 - AIS3 Pre-exam 2024 rk.192
 - 一些CTFtime上的比賽和ISIP的課
 
-## 🗓預計會參加的活動
+## 📅預計會參加的活動
 - AIS3 Junior 2024
 - HITCON CMT 2024
 - 金盾獎 2024
