@@ -17,11 +17,10 @@
 - 金盾獎 2024
 
 ## ☎️聯絡方式
-- Instagram: [elliot_404_tw](https://www.instagram.com/elliot_404_tw/)
-
-- Discord: [elliot_404](https://discord.com/users/628939416693506049)
-
+- Instagram: [elliot_404_tw](https://www.instagram.com/elliot_404_tw/)  
+- Discord: [elliot_404](https://discord.com/users/628939416693506049)  
 - E-mail: cyber404.tw@gmail.com
 
 ## 🔗其他相關連結
 - ctftime: [Elliot_404](https://ctftime.org/user/191615)
+- My Blog: https://elliot-32.github.io/
