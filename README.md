@@ -14,7 +14,7 @@
 ## 🗓預計會參加的活動
 - AIS3 Junior 2024
 - HITCON CMT 2024
-- 金盾盃 2024
+- 金盾獎 2024
 
 ## ☎️聯絡方式
 - Instagram: [elliot_404_tw](https://www.instagram.com/elliot_404_tw/)
